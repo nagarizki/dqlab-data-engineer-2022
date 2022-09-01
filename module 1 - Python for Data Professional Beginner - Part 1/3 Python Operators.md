@@ -600,19 +600,3 @@ harga_baju = baju\["harga"\] - baju\["diskon"\]
 harga_celana = celana\["harga"\] - celana\["diskon"\]
 total_harga = (harga_sepatu + harga_baju + harga_celana) \* 1.1
 print(total_harga)
-
-## Python Conditioning for Decision – Part 1
-
-Layaknya bahasa pemrograman lainnya, bahasa pemrograman Python menyediakan statemen desisi (decision statement) untuk berinteraksi dengan variabel bertipe boolean dan operator logika. Statemen desisi dalam Python dapat dituliskan dengan menggunakan format berikut:
-
-if conditions:
-do_action_1
-...
-do_action_n
-Dengan <conditions> berisikan operator yang mengembalikan nilai kebenaran; ataupun beberapa operator yang mengembalikan nilai kebenaran, yang digabungkan dengan operator logika. Melalui sebuah statemen desisi (if statement), <do_action_1> sampai dengan <do_action_n> akan dijalankan saat <conditions> bernilai True.
-
-Dalam menuliskan serangkaian aksi (<do_action_1>, ... , <do_action_n>) dalam sebuah statemen if, aku harus mengemas setiap aksi dalam sebuah blok dengan menambahkan indentasi (jorokan) dari pada aksi.
-
-Aku tidak sabar untuk mempraktekkannya.
-
-##

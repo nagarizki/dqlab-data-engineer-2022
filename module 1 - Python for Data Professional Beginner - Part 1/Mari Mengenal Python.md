@@ -78,10 +78,10 @@ Python diciptakan oleh … pada tahun …
 
 JAWABAN
 
-Robert Kowalski, 1972
-Dennis Ritchie, 1993
-Rasmus Lerdof, 1994
-Guido van Rossum, 1991
+Robert Kowalski, 1972  
+Dennis Ritchie, 1993  
+Rasmus Lerdof, 1994  
+Guido van Rossum, 1991  
 James Gosling, 1995
 
 ## Program pertama: "Hello World"
@@ -106,7 +106,7 @@ Tugas:
 Sekarang aku diberikan tugas dari Senja untuk menampilkan kalimat “Halo Dunia” dan “Riset Bahasa Python” menggunakan fungsi print().
 
 Jawaban:
-print("Halo Dunia")
+print("Halo Dunia")  
 print("Riset Bahasa Python")
 
 ## Struktur Program Python - Part 1
@@ -134,14 +134,14 @@ Aku diminta untuk mencoba mempraktekkan tutorial yang diajarkan untuk memahami s
 
 Ketik Syntax berikut pada Live Code Editor:
 
-Jawaban:
-\# Statement
-print("Belajar Python Menyenangkan")
-print("Halo Dunia")
-print("Hello World!")
-\# Variables & Literals
-bilangan1 = 5
-bilangan2 = 10
-kalimat1 = "Belajar Bahasa Python"
-\# Operators
+Jawaban:  
+\# Statement  
+print("Belajar Python Menyenangkan")  
+print("Halo Dunia")  
+print("Hello World!")  
+\# Variables & Literals  
+bilangan1 = 5  
+bilangan2 = 10  
+kalimat1 = "Belajar Bahasa Python"  
+\# Operators  
 print(bilangan1 + bilangan2)

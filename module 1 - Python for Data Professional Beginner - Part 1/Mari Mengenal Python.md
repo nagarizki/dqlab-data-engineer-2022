@@ -145,3 +145,103 @@ bilangan2 = 10
 kalimat1 = "Belajar Bahasa Python"  
 \# Operators  
 print(bilangan1 + bilangan2)
+
+## Tugas Praktek
+
+Tantangan belum berakhir. Aku diminta Senja untuk membuat program pengurangan sederhana dengan Python.
+
+Tugas:
+Deklarasi variable bilangan1 dengan 20, dan bilangan2 dengan 10 dan tampilkan hasil pengurangan bilangan1 & bilangan 2.
+
+Jawaban:  
+bilangan1 = 20  
+bilangan2 = 10  
+print(bilangan1 - bilangan2)
+
+## Tugas Praktek
+
+“Saya lihat kamu cepat belajar. Gimana kalau kamu coba buat kalkulator sederhana untuk potongan harga dan pajak, Aksara?” komentar Senja padaku.
+
+Tugas:
+Aku diminta menghitung harga_setelah_potongan dan harga_final. harga_final diperoleh dengan mengalikan harga_setelah_potongan dengan angka 1.1 karena PPN sebesar 10% (100% + 10% = 110% atau 1.1)
+Aku menggunakan variabel harga_asli dengan nilai 20000 dan variabel potongan dengan nilai 2000.
+
+Jawaban:  
+harga_asli = 20000  
+potongan = 2000  
+harga_setelah_potongan = harga_asli-potongan  
+harga_final = harga_setelah_potongan\*1.1  
+print(harga_final)
+
+## Struktur Program Python - Part 2
+
+Setelah mengerjakan tugas yang diberikan Senja, aku kembali lanjut belajar. Berikut adalah hal-hal baru yang aku pelajari mengenai Python:
+
+1. Reserved Words: Kumpulan kata-kata yang memiliki makna khusus dalam bahasa pemrograman Python. Kata False, return, dan for merupakan contoh dari reserved words.
+
+Catatan: Ternyata, aku tidak dapat mendeklarasikan variabel dengan menggunakan sebuah reserved word!
+
+2. Whitespace: Pada bahasa Python, spasi dan tab memiliki makna khusus untuk menandai serangkaian blok dalam kode Python. Hal ini akan dijelaskan secara lebih lanjut pada bagian struktur pemilihan dan struktur pengulangan pada bahasa Python.
+
+3. Comments: Comments merupakan sekumpulan teks yang dituliskan di dalam sebuah program yang tidak akan mempengaruhi hasil dari sebuah program. Walaupun tidak mempengaruhi hasil program, comments merupakan salah satu komponen yang penting dalam pengembangan program. Hal tersebut dikarenakan comments dapat diselipkan di antara sekumpulan statements yang telah dituliskan, untuk berkomunikasi dengan rekan programmer lainnya dalam satu tim.
+
+Terdapat dua jenis comments di dalam Python, yaitu:
+
+a. single line comment (comments dalam satu baris) seperti pada contoh berikut:
+
+b. multi line comment (comments dalam beberapa baris) yang dapat dituliskan seperti pada contoh berikut:
+
+## Quiz
+
+Dari pilihan-pilihan di bawah ini, manakah yang bukan merupakan struktur dari sebuah program Python:
+
+JAWABAN
+
+Reserved Words  
+Whitespace  
+Variables  
+Operators  
+v Pointers
+
+## Quiz
+
+Dalam bahasa pemrograman Python, … berfungsi untuk memberikan nilai dari sebuah variabel.
+
+JAWABAN
+
+Whitespace  
+Operators  
+v Literals  
+Pointers  
+Assignment
+
+## Python Variables
+
+Setelah mengetahui konsep sederhana dari sebuah variabel, aku diminta mencoba mendeklarasikan beberapa variabel dalam bentuk teks ataupun bilangan dan melakukan operasi yang melibatkan sekumpulan variabel.
+
+Pada bagian ini, aku akan mengkaji variabel dan tipe data secara lebih detail. Pada pertemuan sebelumnya aku berhasil mendeklarasikan variabel dengan menggunakan ekspresi seperti:
+
+Tips:
+
+Dalam mendeklarasikan sebuah variabel, berilah nama yang mewakili isi dari variabel tersebut. Sebagai contoh :
+
+## Aturan Penamaan Python Variables
+
+Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan-aturan berikut:
+
+Nama dari sebuah variabel harus dimulai dengan huruf (a-z, A-Z) atau karakter garis bawah underscore (_) dan tidak dapat dimulai dengan angka (0-9).
+Variabel hanya boleh mengandung karakter alfabet, bilangan dan underscore (a-z, A-Z, 0-9, _)
+Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
+Selain dapat mendeklarasikan nilai dari suatu variabel secara baris per baris, aku juga dapat mendeklarasikan beberapa variabel dalam satu baris dengan menggunakan ekspresi seperti:
+
+## Quiz
+
+Temukan satu contoh pendeklarasian variabel yang tidak valid dari lima pilihan berikut.
+
+JAWABAN
+
+x = 10  
+x, y, z = True, 1, 4.0  
+x, y, z = 3, 3.0, True  
+v 2x = 80  
+x, y, z = False, True, True

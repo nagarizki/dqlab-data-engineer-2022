@@ -67,7 +67,7 @@ Bahasa pemrograman Python, termasuk salah satu bahasa pemrograman yang mudah dim
 JAWABAN
 
 User-centric programming language  
-High-level programming language  
+**High-level programming language**  
 Medium-level programming language  
 Advance programming language  
 Functional programming language
@@ -81,7 +81,7 @@ JAWABAN
 Robert Kowalski, 1972  
 Dennis Ritchie, 1993  
 Rasmus Lerdof, 1994  
-Guido van Rossum, 1991  
+**Guido van Rossum, 1991**  
 James Gosling, 1995
 
 ## Program pertama: "Hello World"
@@ -201,7 +201,7 @@ Reserved Words
 Whitespace  
 Variables  
 Operators  
-v Pointers
+**Pointers**
 
 ## Quiz
 
@@ -211,37 +211,6 @@ JAWABAN
 
 Whitespace  
 Operators  
-v Literals  
+**Literals**  
 Pointers  
 Assignment
-
-## Python Variables
-
-Setelah mengetahui konsep sederhana dari sebuah variabel, aku diminta mencoba mendeklarasikan beberapa variabel dalam bentuk teks ataupun bilangan dan melakukan operasi yang melibatkan sekumpulan variabel.
-
-Pada bagian ini, aku akan mengkaji variabel dan tipe data secara lebih detail. Pada pertemuan sebelumnya aku berhasil mendeklarasikan variabel dengan menggunakan ekspresi seperti:
-
-Tips:
-
-Dalam mendeklarasikan sebuah variabel, berilah nama yang mewakili isi dari variabel tersebut. Sebagai contoh :
-
-## Aturan Penamaan Python Variables
-
-Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan-aturan berikut:
-
-Nama dari sebuah variabel harus dimulai dengan huruf (a-z, A-Z) atau karakter garis bawah underscore (_) dan tidak dapat dimulai dengan angka (0-9).
-Variabel hanya boleh mengandung karakter alfabet, bilangan dan underscore (a-z, A-Z, 0-9, _)
-Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
-Selain dapat mendeklarasikan nilai dari suatu variabel secara baris per baris, aku juga dapat mendeklarasikan beberapa variabel dalam satu baris dengan menggunakan ekspresi seperti:
-
-## Quiz
-
-Temukan satu contoh pendeklarasian variabel yang tidak valid dari lima pilihan berikut.
-
-JAWABAN
-
-x = 10  
-x, y, z = True, 1, 4.0  
-x, y, z = 3, 3.0, True  
-v 2x = 80  
-x, y, z = False, True, True

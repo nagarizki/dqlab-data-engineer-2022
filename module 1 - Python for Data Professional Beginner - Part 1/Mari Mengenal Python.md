@@ -66,11 +66,11 @@ Bahasa pemrograman Python, termasuk salah satu bahasa pemrograman yang mudah dim
 
 JAWABAN
 
-User-centric programming language**
-High-level programming language**
-Medium-level programming language**
-Advance programming language**
-Functional programming language\_\_
+User-centric programming language  
+High-level programming language  
+Medium-level programming language  
+Advance programming language  
+Functional programming language
 
 ## Quiz
 
